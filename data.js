@@ -22,14 +22,11 @@ function fotoPlaceholder(seed) {
 }
 
 const PRESENTES = [
-  { valor: 99, titulo: "Plug", foto: "plug.png" },
-  { valor: 149, titulo: "Kit Lover", foto: "kitLover.png" },
   { valor: 189, titulo: "Carteira com dinheiro", foto: "carteira.png" },
   { valor: 239, titulo: "Coleira para seu Pet", foto: "coleira.png" },
   { valor: 299, titulo: "Guarda-Chuva", foto: "guardachuva.png" },
   { valor: 339.99, titulo: "Sapato do Noivo", foto: "sapato.png" },
   { valor: 469, titulo: "Gravata do Noivo", foto: "gravata.png" },
-  { valor: 499, titulo: "Toy sex", foto: "jorge.png" },
   { valor: 589, titulo: "Beijo da Noiva", foto: "beijo.png" },
   { valor: 679, titulo: "Guardanapo da Noiva", foto: "guardanapo.png" },
   { valor: 779, titulo: "Beijo do Noivo", foto: "beijo.png" },
